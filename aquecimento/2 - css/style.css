@@ -2,16 +2,46 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  color: #a09038;
 }
 
 body {
   font-family: sans-serif;
+  background: url('bg-img.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center fixed;
+}
+
+h1 {
+  font-size: 60px;
 }
 
 ul {
   list-style: none;
+  font-size: 30px;
+  font-style: italic;
 }
 
 a {
   text-decoration: none;
+  font-weight: 700;
+}
+
+#sobre {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+#sobre p {
+  color: white;
+}
+
+section {
+  text-align: center;
+}
+
+form {
+  width: 40%;
+  margin: 0 auto;
 }
