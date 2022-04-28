@@ -1,0 +1,5 @@
+BEM - (BLOCK ELEMENT MODIFIER) -> http://getbem.com/
+
+-> Metodologia que ajuda na nomenclatura e que melhora a organização do nosso código CSS.
+
+
