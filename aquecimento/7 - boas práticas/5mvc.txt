@@ -1,0 +1,15 @@
+MVC - MODEL VIEW CONTROLLER
+
+-> Padrão arquitetural que divide nossa aplicação em três camadas:
+
+1 - Model
+-> Gerencia as entidades do sistema, receba, trata e valida todos os dados.
+-> Lida com as informações da nossa aplicação.
+
+2 - View 
+-> É a camada de interação, responsável pela visualização e pelo componente de interface.
+
+3 - Controller
+-> Recebe a requisição e eventos do usuário.
+-> Encaminha a resposta do Model para o View.
+-> Captura dados na View e encaminha para o Model.

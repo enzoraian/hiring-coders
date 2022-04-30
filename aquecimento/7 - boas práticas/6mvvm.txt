@@ -1,0 +1,17 @@
+MVVM - MODEL VIEW VIEWMODEL
+
+-> Padrão Arquitetural que divide os elementos da nossa aplicação em três camadas:
+
+Model
+- Guarda as regras de negócio.
+- Encapsula os dados. 
+- Provê notificações através da interface.
+
+View
+- Camada de interação do usuário com a aplicação. 
+- Defini a aparência 
+
+ViewModel
+- Trata da lógica de controles.
+- Não conhece a View.
+- Lança notificações de estado ou de alterações.

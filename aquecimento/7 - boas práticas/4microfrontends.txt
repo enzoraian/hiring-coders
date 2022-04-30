@@ -1,0 +1,3 @@
+Micro Frontends
+-> Evolução natural no desenho de arquitetura de software.
+-> Permite a utilização de pequenos componentes independentes e diferentes tecnologias atreladas a eles. 

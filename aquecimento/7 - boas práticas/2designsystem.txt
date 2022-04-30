@@ -1,0 +1,4 @@
+Design System
+-> Conjunto de padrões de design ou de componentes pré-estabelecidos em uma equipe.
+-> Documento vivo de design com todos os componentes de um software.
+

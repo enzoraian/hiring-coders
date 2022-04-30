@@ -1,5 +1,4 @@
 BEM - (BLOCK ELEMENT MODIFIER) -> http://getbem.com/
-
 -> Metodologia que ajuda na nomenclatura e que melhora a organização do nosso código CSS.
 -> Criação de componentes reutilizáveis e facilmente compartilháveis dentro do frontend.
 
@@ -7,6 +6,6 @@ Bloco__Elemento--Modificador
 
 Padronização do bloco -> Ex: .list, .header
 Padronização dos elementos -> Ex: .list__item, .header__title
-Padronização Classes Modificadoras -> Ex: list__item--highlight, link__author--active
+Padronização Classes Modificadoras -> Ex: list__item--highlight, link__author--active, button--blue
 
 
