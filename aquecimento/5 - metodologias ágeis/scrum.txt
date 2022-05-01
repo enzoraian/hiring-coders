@@ -1,0 +1,61 @@
+Scrum
+-> Framework de metodologia ágil que é caracterizado por trabalho em equipe.
+
+Vantagens:
+- Entregas contínuas e com valor.
+- Aprendizado contínuo.
+- Feedback constante do cliente.
+- Flexibilidade na revisão de prioridade de tarefas.
+
+Product Backlog
+- Documentação de forma clara sobre todos os requisitos que vão surgindo durante o desenvolvimento do projeto.
+
+Papéis do Scrum:
+
+Product Owner (PO)
+- Gerencia o Product Backlog, conhece bem sobre o produto e o negócio, garante o ROI do produto.
+- Conhece bem as necessidades do cliente e realiza o relacionamento com ele.
+- Está sempre disponível para o Scrum Master e para o time.
+
+Scrum Master
+- Facilitador do projeto, ele remove os impedimentos do time e garante o uso do Scrum.
+- Auxilia o PO com o Product Backlog.
+- Organiza e garante a realização das cerimônias e protege a equipe assegurando que ela se comprometa apenas com o que é capaz de entregar.
+
+Time 
+- Está focado em desenvolver o projeto.
+- Define meta das interações e das entregas do projeto.
+
+Cerimônias do Scrum
+
+Sprint: Definição de execução do projeto em várias etapas pequenas.
+
+(1) Planejamento da Sprint
+-> Definição do que será executado pelo time.
+(2) Execução da Sprint
+(3) Reuniões Diárias
+(4) Revisão da Sprint
+-> Apresentação do resultado no final de cada sprint para o PO e/ou para o cliente.
+-> Atualização do Product Backlog pelo PO.
+(5) Retrospectiva 
+-> Verificar acertos e erros, melhorando o projeto em tempo real.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
