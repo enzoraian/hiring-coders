@@ -28,10 +28,10 @@ Time
 
 Cerimônias do Scrum
 
-Sprint: Definição de execução do projeto em várias etapas pequenas.
+Sprint: Definição de execução do projeto em várias etapas pequenas com lista de funcionalidades do projeto.
 
 (1) Planejamento da Sprint
--> Definição do que será executado pelo time.
+-> Definição do que será executado pelo time através da utilização de User Stories.
 (2) Execução da Sprint
 (3) Reuniões Diárias
 (4) Revisão da Sprint
@@ -39,6 +39,8 @@ Sprint: Definição de execução do projeto em várias etapas pequenas.
 -> Atualização do Product Backlog pelo PO.
 (5) Retrospectiva 
 -> Verificar acertos e erros, melhorando o projeto em tempo real.
+
+
 
 
 
