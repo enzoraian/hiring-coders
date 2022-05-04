@@ -32,7 +32,7 @@ Sprint: Definição de execução do projeto em várias etapas pequenas com list
 
 (1) Planejamento da Sprint
 -> Definição do que será executado pelo time através da utilização de User Stories.
-(2) Execução da Sprint
+(2) Execução da Sprint, onde pode ser utilizado o Kanban.
 (3) Reuniões Diárias
 (4) Revisão da Sprint
 -> Apresentação do resultado no final de cada sprint para o PO e/ou para o cliente.

@@ -1,0 +1,16 @@
+Padrões de projeto
+- 
+
+Singleton
+-> Padrão de Projeto do tipo Criacional.
+- Garante que existe apenas uma instância de uma classe e provê acesso global por toda a aplicação em um único ponto.
+
+Strategy
+-> Padrão de Projeto do tipo Comportamental.
+- Pode definir uma séries de algoritmos diferentes cada um separado em suas devidas classes mas que podem ser intercambiáveis.
+
+Adapter
+-> Padrão de Projeot do tipo Estrutural.
+- Serve para adaptar nossa implementação já existente a um novo cenário diferente daquele originalmente desenhado.
+
+

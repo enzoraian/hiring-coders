@@ -1,0 +1,30 @@
+Git - Responsável pelo controle de versão de um projeto.
+
+Comandos Básicos (Terminal)
+
+pwd -> localização atual.
+dir ou ls -> listar pastas.
+cd "nomedapasta"-> navegar entre pastas.
+mkdir "nomedapasta"-> criar pasta.
+
+Comandos Básicos (Git)
+
+git init -> inicializar repositório git.
+git config --global user.email "seuemail" -> configurando usuário global.
+git config --global user.name "Seu nome" -> configurando usuário global.
+
+git status -> mostrar o status da branch.
+git add "nomedoarquivo" ou . -> prepara o arquivo para ser entregue ao repositório remoto.
+git commit -m "sua mensagem..." -> inserir mensagem sobre seu commit.
+git push -> enviar arquivos para o repositório remoto.
+
+git clone "#link" -> clonar repositório remoto para local.
+
+git remote add origin "#link" -> adicionar conexão entre repositório remoto e local.
+git push -u origin master
+
+Branch 
+-> Ramificações do seu projeto utilizadas para ter diferentes códigos do projeto.
+
+git checkout -b "nomedabranch" -> criar uma nova branch 
+git checkout "nomedabranch" -> mudar para outra branch
