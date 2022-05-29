@@ -25,6 +25,12 @@ git push -u origin master
 
 Branch 
 -> Ramificações do seu projeto utilizadas para ter diferentes códigos do projeto.
-
 git checkout -b "nomedabranch" -> criar uma nova branch 
 git checkout "nomedabranch" -> mudar para outra branch
+
+Merge
+-> Fazer uma junção entre duas branchs.
+git merge "master" - faça isso na outra branch, que é a ramificação da master.
+
+Fork e Github Pages
+
