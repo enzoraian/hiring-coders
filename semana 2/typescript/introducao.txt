@@ -1,0 +1,5 @@
+Javascript -> É uma linguagem de programação que pode ser executada tanto no navegador como no servidor.
+
+Problema do JS: É uma linguagem fracamente tipada.
+
+Typescript -> É um superconjunto sintático estrito de JS que adiciona tipagem estática opcional a linguagem.
